@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=FFB7E8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Science+degree...;now+I+make+things%2C+break+things%2C+and+make+them+pretty+again+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=FFB7E8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Science+degree...;now+I+make+things%2C+learn+from+them%2C+and+apply+them+to+my+next+projects!%E2%9C%A8" />
 
 </div>
 
@@ -28,7 +28,7 @@ I actually got into coding because of **Smash Hit** — I was obsessed with the 
 
 PocketShield 🛡️
 
-Currently building PocketShield and working on a few other hackathon projects. Experimenting, learning, breaking things, fixing them, and occasionally getting something to work on the first try. ✨
+Currently building PocketShield and working on a few other hackathon projects. Experimenting, learning, breaking things, fixing them, and occasionally getting something to work on the first try. 
 
 ---
 
@@ -118,7 +118,7 @@ Basically:
 
 <div align="center">
 
-## ✨ little things about me
+## little things about me
 
 <table>
 <tr>
