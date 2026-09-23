@@ -24,7 +24,7 @@ I actually got into coding because of **Smash Hit** — I was obsessed with the 
 
 ---
 
-## something I'm building
+## ✦ something I'm building
 
 PocketShield 🛡️
 
@@ -32,7 +32,7 @@ Currently building PocketShield and working on a few other hackathon projects. E
 
 ---
 
-## what I work with
+## ✦ what I work with
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Currently building PocketShield and working on a few other hackathon projects. E
 </div>
 
 
-## the things I keep getting distracted by
+## ✦ the things I keep getting distracted by
 
 <table>
 <tr>
@@ -98,7 +98,7 @@ Colour
 
 ---
 
-## the slightly chaotic career plan
+## ✦ the slightly chaotic career plan
 
 I'm interested in **UI/UX, creative technology, AI/LLMs, and research**, and I'd love to explore all of them instead of forcing myself into one box. For now, I'm mostly focused on learning, building things, and seeing where all of it takes me.
 
@@ -139,7 +139,7 @@ Basically:
 
 ---
 
-## things I'm currently doing
+## ✦ things I'm currently doing
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Basically:
 
 ---
 
-## the github corner
+## ✦ the github corner
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Basically:
 
 ---
 
-## apparently I feed a snake with my commits
+## ✦ apparently I feed a snake with my commits
 
 <div align="center">
 
