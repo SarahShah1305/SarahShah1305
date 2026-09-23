@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey,%20I'm%20Sara!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20design%20%E2%80%A2%20chaos%20%E2%80%A2%20curiosity&descAlignY=57&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Hey,%20I'm%20Sara!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=code%20%E2%80%A2%20design%20%E2%80%A2%20chaos%20%E2%80%A2%20curiosity&descAlignY=57&descSize=19" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Science+degree...;now+I+make+things%2C+break+things%2C+and+make+them+pretty+again+%E2%9C%A8" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SarahShah1305&label=PROFILE%20VIEWS&color=B983FF&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=FFB7E8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Science+degree...;now+I+make+things%2C+break+things%2C+and+make+them+pretty+again+%E2%9C%A8" />
 
 </div>
+
 
 ---
 ## ✦ a little about me
@@ -34,6 +31,19 @@ PocketShield 🛡️
 Currently building PocketShield and working on a few other hackathon projects. Experimenting, learning, breaking things, fixing them, and occasionally getting something to work on the first try. ✨
 
 ---
+
+## 🛠️ what I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,figma,git,github&perline=5&theme=dark" />
+
+<br><br>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20stack&lineCount=2&theme=github_dark&line1=java,python,javascript,typescript,react&line2=html,css,figma,git,github" />
+
+</div>
+
 
 ## 🎨 the things I keep getting distracted by
 
@@ -90,20 +100,7 @@ Colour
 
 ## 🧠 the slightly chaotic career plan
 
-```text
-                    ┌──────────────────────┐
-                    │       COMPUTER       │
-                    │        SCIENCE       │
-                    └──────────┬───────────┘
-                               │
-               ┌───────────────┼───────────────┐
-               ↓               ↓               ↓
-           🎨 DESIGN        🧠 AI/LLMs      🔬 RESEARCH
-               │               │               │
-               └───────────────┼───────────────┘
-                               ↓
-                    ✨ BUILD COOL THINGS ✨
-```
+I'm interested in **UI/UX, creative technology, AI/LLMs, and research**, and I'd love to explore all of them instead of forcing myself into one box. For now, I'm mostly focused on learning, building things, and seeing where all of it takes me.
 
 I want to sit somewhere in the middle of:
 
@@ -121,23 +118,24 @@ Basically:
 
 <div align="center">
 
-## ✨ little things about me ✨
+## ✨ little things about me
 
 <table>
 <tr>
+<td>💗</td>
 <td>If something is remotely funny, there is a very high chance I will laugh way too hard.</td>
 </tr>
+
 <tr>
 <td>📚</td>
-<td>Novels are my actual happy place. Give me recommendations!.</td>
+<td>Novels are my actual happy place. Give me recommendations!</td>
 </tr>
+
 <tr>
 <td>🎨</td>
 <td>If the interface isn't colourful or creative enough, I will probably redesign it.</td>
 </tr>
 </table>
-
-</div>
 
 ---
 
