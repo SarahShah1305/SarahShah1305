@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=FFB7E8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Science+degree...;now+I+make+things%2C+learn+from+them%2C+and+apply+them+to+my+next+projects!%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=FFB7E8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=I+once+played+Smash+Hit+and+asked+%22how+does+that+even+work%3F%22;somehow+that+turned+into+a+Computer+Systems+degree...;now+I+make+things%2C+learn+from+them%2C+and+do+even+better!%E2%9C%A8" />
 
 </div>
 
@@ -24,7 +24,7 @@ I actually got into coding because of **Smash Hit** — I was obsessed with the 
 
 ---
 
-## 🛠️ something I'm building
+## something I'm building
 
 PocketShield 🛡️
 
@@ -32,7 +32,7 @@ Currently building PocketShield and working on a few other hackathon projects. E
 
 ---
 
-## 🛠️ what I work with
+## what I work with
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Currently building PocketShield and working on a few other hackathon projects. E
 </div>
 
 
-## 🎨 the things I keep getting distracted by
+## the things I keep getting distracted by
 
 <table>
 <tr>
@@ -98,7 +98,7 @@ Colour
 
 ---
 
-## 🧠 the slightly chaotic career plan
+## the slightly chaotic career plan
 
 I'm interested in **UI/UX, creative technology, AI/LLMs, and research**, and I'd love to explore all of them instead of forcing myself into one box. For now, I'm mostly focused on learning, building things, and seeing where all of it takes me.
 
@@ -139,7 +139,7 @@ Basically:
 
 ---
 
-## 🚀 things I'm currently doing
+## things I'm currently doing
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Basically:
 
 ---
 
-## 📈 the github corner
+## the github corner
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Basically:
 
 ---
 
-## 🐍 apparently I feed a snake with my commits
+## apparently I feed a snake with my commits
 
 <div align="center">
 
